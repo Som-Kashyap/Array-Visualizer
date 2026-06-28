@@ -17,6 +17,8 @@ An interactive web application built using HTML,CSS,and JavaScript to visualize 
 ## Link
 https://som-kashyap.github.io/Array-Visualizer/
 
+---
+
 ## Demo
 
 
