@@ -19,10 +19,6 @@ https://som-kashyap.github.io/Array-Visualizer/
 
 ---
 
-## Demo
-
-
-
 <img width="1536" height="698" alt="array-vis-" src="https://github.com/user-attachments/assets/3b9f6dfa-f27b-4762-a0f0-2973259d00dc" />
 
 
